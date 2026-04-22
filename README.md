@@ -10,7 +10,7 @@ The study analyzes 2,400 experimental trials to demonstrate how data entropy inf
 - Efficiency of **Suffix-Sum Pruning** on structured vs. random datasets.
 
 ## 📊 Results
-![Research Graphs](SCIENTIFIC_RESULT.png)
+![Research Graphs](AMDB_FINAL_RESEARCH.png)
 *Figure: Runtime analysis and node exploration complexity.*
 
 ## 🛠 Tech Stack
