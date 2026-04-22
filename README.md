@@ -19,7 +19,7 @@ The study analyzes 2,400 experimental trials to demonstrate how data entropy inf
 - **LaTeX**: Academic paper formatting.
 
 ## 📄 Paper
-You can find the full research paper here: [Research_Paper_Ali_Bayramov.pdf](./Research_Paper_Ali_Bayramov.pdf)
+You can find the full research paper here: [Research_Paper_Ali_Bayramov.pdf](./final_plot_png-2.pdf)
 
 ---
 **Author:** Ali Bayramov  
