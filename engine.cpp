@@ -27,10 +27,10 @@ int main() {
     file << "Trial,Bits,Density,Type,Time_ms,Nodes,Status" << endl;
 
     mt19937_64 rng(1337);
-    // В файле engine.cpp замени строку с конфигами:
+   
 vector<int> bit_configs = {20, 25, 30, 35, 40, 45, 50};
-// Теперь будет 7 точек по 300 тестов = 4200 запусков.
-// Мак справится быстро, зато на графике будет "песня".
+
+
 
     cout << "🚀 Starting Phase Transition Research (2400 runs)..." << endl;
 
